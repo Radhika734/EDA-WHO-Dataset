@@ -1,18 +1,18 @@
 # EDA-WHO-Dataset  
 **Exploratory Data Analysis on Global Under-5 Mortality Rates**
 
----
+
 
 ## 🔍 Overview  
 This project explores the under-5 mortality rates worldwide using Exploratory Data Analysis (EDA) techniques in Python. The primary objective is to analyze if death rates have reduced over time due to medical advancements and identify regions and causes with the highest under-5 death rates globally. Also which factors effect the most to mortality: income, age etc.
 
----
+
 
 ## 📂 Dataset  
 The dataset is sourced from the World Health Organization (WHO) and can be found here:  
 🔗 **WHO Under-5 Mortality Dataset**
 
----
+
 
 ## 🛠️ Technologies & Libraries Used  
 - Python (Pandas, Matplotlib, Seaborn)  
@@ -20,7 +20,7 @@ The dataset is sourced from the World Health Organization (WHO) and can be found
 - Exploratory Data Analysis (EDA)  
 - Data Visualization
 
----
+
 
 ## 🔄 Steps in Analysis  
 
@@ -59,7 +59,7 @@ Created a copy of the dataset for modifications:
 4. **Which cause was the reason for highest death rates every year**  
    The leading cause contributing to the highest mortality rates: **Prematurity**
 
----
+
 
 ### 💰 Income Group
 1. **Total death rates per income group overall**  
@@ -74,7 +74,7 @@ Created a copy of the dataset for modifications:
    - Africa having a large number of lower-middle-income groups suggests there might be a higher chance of more deaths compared to other regions.  
    - Regions like Americas, Europe, and the Western Pacific don't seem to have any low-income groups. These regions may have strong economies, influencing fewer people to fall into the low-income category.
 
----
+
 
 ### ⚠️ Cause
 1. **Maximum mortality rates by each cause**  
@@ -84,7 +84,7 @@ Created a copy of the dataset for modifications:
 2. **Total death rate due to each cause throughout the years**  
    - **Prematurity** seems to be the cause of highest death rates globally
 
----
+
 
 ### 🌍 Region
 1. **Correlating entry counts to death rates across regions**  
@@ -105,11 +105,11 @@ Created a copy of the dataset for modifications:
    - America and Europe have the most upper-middle-income compared to other regions  
    - In Africa, where the lower middle income group is highest, the under-5 death rates are also the highest among other regions  
 
----
+
 
 ## 📁 Repository Structure
 
-```
+
 📂 EDA-WHO-Dataset
 │── 📜 WHO_Under5_Mortality.csv       # Raw Dataset  
 │── 📜 EDA_WHO.ipynb                  # Jupyter Notebook with analysis  
