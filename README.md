@@ -63,11 +63,12 @@ Created a copy of the dataset for modifications:
 
 ### 💰 Income Group
 1. **Total death rates per income group overall**  
-   Among the income groups, lower middle-income shows the highest death rates compared to others, while the high-income group shows the lowest death rates.  
+   - Among the income groups, lower middle-income shows the highest death rates compared to others, while the high-income group shows the lowest death rates.  
 
 2. **Cause-Based Analysis Across Income Groups**  
-   After analyzing, it's clear that the lower middle-income group experiences the highest death rates compared to other income brackets. High-income group shows lower death rates.  
-   The top reasons for the highest death rates seem to be **Prematurity, birth asphyxia, and birth trauma** in the lower middle-income group.  
+   - After analyzing, it's clear that the lower middle-income group experiences the highest death rates compared to other income brackets.
+   -  High-income group shows lower death rates.  
+   - The top reasons for the highest death rates seem to be **Prematurity, birth asphyxia, and birth trauma** in the lower middle-income group.  
 
 3. **Region-Based Analysis Across Income Groups**  
    - Europe consistently has the most high-income groups across all income levels compared to other regions.  
